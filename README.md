@@ -1,2 +1,2 @@
 # mohirdev-python
-<h1> Ushbu Repositoryda mohirdev praktikum darslarining Python qismidagi ishlarimni joylab boraman </h1>
+<h5 style="color: red"> Ushbu Repositoryda mohirdev praktikum darslarining Python qismidagi ishlarimni joylab boraman </h5>
